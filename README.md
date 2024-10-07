@@ -8,5 +8,17 @@
 
 <img width="257" alt="Screenshot 2024-07-13 002056" src="https://github.com/user-attachments/assets/a78dd6a1-ef23-4ec7-9ca2-6ff75230c4c0">
 <!-- readme: contributors -start -->
-
+<table>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Pranshu-jais">
+                    <img src="https://avatars.githubusercontent.com/u/150207373?v=4" width="100;" alt="Pranshu-jais"/>
+                    <br />
+                    <sub><b>Pranshu Jaiswal</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
+</table>
 <!-- readme: contributors -end -->
